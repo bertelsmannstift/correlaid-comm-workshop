@@ -1,0 +1,8 @@
+correlaid:
+
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: 'correlaid.duckdb'
+      threads: 24
