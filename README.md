@@ -2,10 +2,6 @@
 
 
 ## Motivation
-[- Who has worked with relational databases yet?]
-
-DDL (Data definition language)
-
 When working with relational databases for data engineering, one of the main tasks is data modeling:
 - What data objects do we need?
 - What are the relationships between the different objects?
